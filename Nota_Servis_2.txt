@@ -1,0 +1,16 @@
+========================================
+          NOTA SERVIS BENGKEL MOTOR     
+========================================
+No. Nota  : SRV-0002
+Tanggal   : 2026-11-19
+Pelanggan : Joss Wayar
+Kendaraan : D 5678 XYZ (Honda BeAT Street)
+Mekanik   : Fajar Nugraha
+Keluhan   : motor rusak paeah
+----------------------------------------
+RINCIAN BIAYA:
+Jasa Servis Mekanik       : Rp 100,000
+----------------------------------------
+TOTAL BAYAR               : Rp 100,000
+========================================
+     Terima Kasih Atas Kunjungan Anda!  

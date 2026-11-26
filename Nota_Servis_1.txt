@@ -1,0 +1,16 @@
+========================================
+          NOTA SERVIS BENGKEL MOTOR     
+========================================
+No. Nota  : SRV-0001
+Tanggal   : 2026-11-13
+Pelanggan : Gawin Caskey
+Kendaraan : F 9012 AB (Yamaha Aerox 155)
+Mekanik   : Budi Santoso
+Keluhan   : ganti oli
+----------------------------------------
+RINCIAN BIAYA:
+Jasa Servis Mekanik       : Rp 35,000
+----------------------------------------
+TOTAL BAYAR               : Rp 53,000
+========================================
+     Terima Kasih Atas Kunjungan Anda!  
